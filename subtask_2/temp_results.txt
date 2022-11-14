@@ -1,0 +1,4 @@
+epoch 5
+precision: tensor(0.2634, device='cuda:0')
+recall: tensor(0.6694, device='cuda:0')
+f1 score: tensor(0.3780, device='cuda:0'
