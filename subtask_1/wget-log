@@ -1,0 +1,24 @@
+--2022-08-26 12:19:14--  https://drive.google.com/u/0/uc?id=1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx
+Resolving drive.google.com (drive.google.com)... 172.217.25.174, 2404:6800:400a:80a::200e
+Connecting to drive.google.com (drive.google.com)|172.217.25.174|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://drive.google.com/uc?id=1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx [following]
+--2022-08-26 12:19:14--  https://drive.google.com/uc?id=1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx
+Reusing existing connection to drive.google.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/uc?id%3D1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx&followup=https://drive.google.com/uc?id%3D1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx [following]
+--2022-08-26 12:19:14--  https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/uc?id%3D1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx&followup=https://drive.google.com/uc?id%3D1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx
+Resolving accounts.google.com (accounts.google.com)... 142.250.76.141, 2404:6800:400a:80e::200d
+Connecting to accounts.google.com (accounts.google.com)|142.250.76.141|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/v3/signin/identifier?dsh=S-637196924%3A1661483955176918&continue=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx&followup=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmWnOiNNWNRM3xA3eD7ETnxUjis8peqGRHGDkoURwogDpJO1m1xQlh3zbqxfBbozIhw5T4gg [following]
+--2022-08-26 12:19:15--  https://accounts.google.com/v3/signin/identifier?dsh=S-637196924%3A1661483955176918&continue=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx&followup=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmWnOiNNWNRM3xA3eD7ETnxUjis8peqGRHGDkoURwogDpJO1m1xQlh3zbqxfBbozIhw5T4gg
+Reusing existing connection to accounts.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘uc?id=1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx’
+
+                uc?id=1HNDlLblD     [<=>                                                    ]       0  --.-KB/s               uc?id=1HNDlLblDlNnUtSAAqZbFIg8t     [ <=>                                                   ] 118.75K  --.-KB/s    in 0.1s    
+
+2022-08-26 12:19:15 (1.16 MB/s) - ‘uc?id=1HNDlLblDlNnUtSAAqZbFIg8tUJCtszRx’ saved [121599]
+

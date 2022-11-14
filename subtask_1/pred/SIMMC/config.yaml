@@ -1,0 +1,14 @@
+alpha: 0.4
+batch_size_test: 8
+batch_size_train: 8
+bert_config: configs/config_bert.json
+distill: true
+image_res: 384
+image_root: 1234/data_image/1234
+optimizer: {lr: 2e-05, opt: adamW, weight_decay: 0.0}
+schedular: {cooldown_epochs: 0, decay_rate: 1, epochs: 20, lr: 2e-05, min_lr: 1e-06,
+  sched: cosine, warmup_epochs: 1, warmup_lr: 1e-05}
+test_file: data_simmc/preprocess/simmc_devtest.txt
+train_file: data_simmc/preprocess/simmc_train.txt
+val_file: data_simmc/preprocess/simmc_dev.txt
+warm_up: false

@@ -1,0 +1,34 @@
+| distributed init (rank 0): env://
+| distributed init (rank 1): env://
+| distributed init (rank 2): env://
+| distributed init (rank 3): env://
+Creating dataset
+Creating model
+reshape position embedding from 256 to 576
+reshape position embedding from 256 to 576
+load checkpoint from ./ALBEF.pth
+_IncompatibleKeys(missing_keys=['cls_head.0.weight', 'cls_head.0.bias', 'cls_head.2.weight', 'cls_head.2.bias', 'cls_head_m.0.weight', 'cls_head_m.0.bias', 'cls_head_m.2.weight', 'cls_head_m.2.bias'], unexpected_keys=['temp', 'image_queue', 'text_queue', 'queue_ptr', 'vision_proj.weight', 'vision_proj.bias', 'text_proj.weight', 'text_proj.bias', 'itm_head.weight', 'itm_head.bias', 'vision_proj_m.weight', 'vision_proj_m.bias', 'text_proj_m.weight', 'text_proj_m.bias', 'text_encoder.cls.predictions.bias', 'text_encoder.cls.predictions.transform.dense.weight', 'text_encoder.cls.predictions.transform.dense.bias', 'text_encoder.cls.predictions.transform.LayerNorm.weight', 'text_encoder.cls.predictions.transform.LayerNorm.bias', 'text_encoder.cls.predictions.decoder.weight', 'text_encoder.cls.predictions.decoder.bias', 'text_encoder_m.cls.predictions.bias', 'text_encoder_m.cls.predictions.transform.dense.weight', 'text_encoder_m.cls.predictions.transform.dense.bias', 'text_encoder_m.cls.predictions.transform.LayerNorm.weight', 'text_encoder_m.cls.predictions.transform.LayerNorm.bias', 'text_encoder_m.cls.predictions.decoder.weight', 'text_encoder_m.cls.predictions.decoder.bias'])
+Start training
+Train Epoch: [0]  [    0/39790]  eta: 12:30:52  lr: 0.000010  loss: 0.7924  time: 1.1322  data: 0.4924  max mem: 8988
+WARNING!! word is cut!!
+
+WARNING!! word is cut!!
+
+Train Epoch: [0]  [ 5000/39790]  eta: 3:14:49  lr: 0.000020  loss: 0.1788  time: 0.3384  data: 0.0001  max mem: 12920
+WARNING!! word is cut!!
+
+Train Epoch: [0]  [10000/39790]  eta: 2:46:59  lr: 0.000020  loss: 0.2815  time: 0.3376  data: 0.0001  max mem: 12927
+WARNING!! word is cut!!
+
+Train Epoch: [0]  [15000/39790]  eta: 2:18:57  lr: 0.000020  loss: 0.2091  time: 0.3351  data: 0.0001  max mem: 12927
+WARNING!! word is cut!!
+
+WARNING!! word is cut!!
+
+Train Epoch: [0]  [20000/39790]  eta: 1:50:56  lr: 0.000020  loss: 0.3454  time: 0.3385  data: 0.0001  max mem: 12932
+WARNING!! word is cut!!
+
+Train Epoch: [0]  [25000/39790]  eta: 1:22:54  lr: 0.000020  loss: 0.2114  time: 0.3405  data: 0.0001  max mem: 12936
+WARNING!! word is cut!!
+
+Train Epoch: [0]  [30000/39790]  eta: 0:54:53  lr: 0.000020  loss: 0.2213  time: 0.3345  data: 0.0001  max mem: 12936

@@ -1,0 +1,17 @@
+{"train_lr": "0.0000", "train_loss": "0.1183", "val_acc": "0.9689", "val_f1": "0.4477", "test_acc": "0.9669", "test_f1": "0.5070", "epoch": 0}
+{"train_lr": "0.0000", "train_loss": "0.0673", "val_acc": "0.9779", "val_f1": "0.5612", "test_acc": "0.9756", "test_f1": "0.5405", "epoch": 1}
+{"train_lr": "0.0000", "train_loss": "0.0558", "val_acc": "0.9766", "val_f1": "0.5568", "test_acc": "0.9755", "test_f1": "0.5612", "epoch": 2}
+{"train_lr": "0.0000", "train_loss": "0.0490", "val_acc": "0.9797", "val_f1": "0.5807", "test_acc": "0.9778", "test_f1": "0.5932", "epoch": 3}
+{"train_lr": "0.0000", "train_loss": "0.0440", "val_acc": "0.9790", "val_f1": "0.5747", "test_acc": "0.9771", "test_f1": "0.5753", "epoch": 4}
+{"train_lr": "0.0000", "train_loss": "0.0404", "val_acc": "0.9808", "val_f1": "0.5962", "test_acc": "0.9795", "test_f1": "0.5844", "epoch": 5}
+{"train_lr": "0.0000", "train_loss": "0.0373", "val_acc": "0.9816", "val_f1": "0.6035", "test_acc": "0.9801", "test_f1": "0.6140", "epoch": 6}
+{"train_lr": "0.0000", "train_loss": "0.0341", "val_acc": "0.9809", "val_f1": "0.5902", "test_acc": "0.9803", "test_f1": "0.6125", "epoch": 7}
+{"train_lr": "0.0000", "train_loss": "0.0312", "val_acc": "0.9813", "val_f1": "0.6097", "test_acc": "0.9804", "test_f1": "0.6289", "epoch": 8}
+{"train_lr": "0.0000", "train_loss": "0.0285", "val_acc": "0.9822", "val_f1": "0.6066", "test_acc": "0.9818", "test_f1": "0.6204", "epoch": 9}
+{"train_lr": "0.0000", "train_loss": "0.0258", "val_acc": "0.9834", "val_f1": "0.6131", "test_acc": "0.9817", "test_f1": "0.6092", "epoch": 10}
+{"train_lr": "0.0000", "train_loss": "0.0230", "val_acc": "0.9834", "val_f1": "0.6088", "test_acc": "0.9826", "test_f1": "0.6173", "epoch": 11}
+{"train_lr": "0.0000", "train_loss": "0.0205", "val_acc": "0.9831", "val_f1": "0.6061", "test_acc": "0.9822", "test_f1": "0.6218", "epoch": 12}
+{"train_lr": "0.0000", "train_loss": "0.0183", "val_acc": "0.9838", "val_f1": "0.6135", "test_acc": "0.9829", "test_f1": "0.6245", "epoch": 13}
+{"train_lr": "0.0000", "train_loss": "0.0160", "val_acc": "0.9840", "val_f1": "0.6130", "test_acc": "0.9831", "test_f1": "0.6221", "epoch": 14}
+{"train_lr": "0.0000", "train_loss": "0.0142", "val_acc": "0.9841", "val_f1": "0.6035", "test_acc": "0.9831", "test_f1": "0.6245", "epoch": 15}
+{"train_lr": "0.0000", "train_loss": "0.0125", "val_acc": "0.9845", "val_f1": "0.6038", "test_acc": "0.9836", "test_f1": "0.6195", "epoch": 16}

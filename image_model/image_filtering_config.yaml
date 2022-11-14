@@ -1,0 +1,4 @@
+Train:
+  minPixel: 16
+Test:
+  minPixel: -1
