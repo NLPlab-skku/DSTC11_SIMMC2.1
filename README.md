@@ -5,6 +5,7 @@
 ## Overview
 - We used different models for different subtasks
 As we trained each subtask in different environments, they each have their own data folder.
+**We got Third Place on sub task 2 (Coreferencing), sub task 3 (Dialogue State Tracking) and sub task 4 (Response Generation)**
 
 ### Subtask1 Disambiguation
 We have one submissions for subtask1 which train a vision language transformer model using ALBEF as backbone.
